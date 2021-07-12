@@ -1,6 +1,6 @@
 # 2021_s2_misc_reference
 
-This repository contains miscellaneous reference files for distribution to students in Section 1 (Advanced) of the Rare Book School Course on Digital Approachdes to Bibliography and Book History taught by Carl Stahmer, UC Davis DataLab and Department of English and Ben Pauley, Eastern Connecticut State University.
+This repository contains miscellaneous reference files for distribution to students in Section 1 (Advanced) of the Rare Book School Course on Digital Approaches to Bibliography and Book History taught by Carl Stahmer, UC Davis DataLab and Department of English and Ben Pauley, Eastern Connecticut State University Department of English.
 
 _File Manifest:_
 
